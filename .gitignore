@@ -26,3 +26,11 @@ build/
 build_xcode/
 skia/win32/
 skia/win64/
+bin-int/
+bin/
+**.vcxproj
+**.vcxproj.filters
+*.vcxproj
+*.filters
+Msdfgen.vcxproj
+Msdfgen.vcxproj.filters
